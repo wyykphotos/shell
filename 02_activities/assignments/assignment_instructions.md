@@ -1,4 +1,5 @@
 # Shell / Git Assignment
+#change
 You work in the data team at a consulting firm, and one of your team's products is helping companies optimize and manage their cloud hosting expenditures.
 
 Your team has an existing bash script that initializes an analysis directory for each new client. This script is shared amongst members of the team.
